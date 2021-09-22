@@ -1,2 +1,2 @@
-# repo1
-nuevo repositorio
+# taller de github
+nuevo repositorio hecho en clase
